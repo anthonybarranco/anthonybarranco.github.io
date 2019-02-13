@@ -1,11 +1,11 @@
 # Site settings
 author: Anthony Barranco
-title: 
+title: Command Line
 header-img: img/home-bg.png
 email: anthonymbarranco@gmail.com
 copyright_name: Anthony Barranco
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Data Science Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  anthonybarranco
